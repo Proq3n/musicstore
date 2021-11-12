@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: crimson;
+    text-transform: uppercase;
+    margin-right: 10px;
+    font-size: 18px;
+}
+nav ul {
+    display: block;
+}
+nav ul li {
+    display: inline;
+    position: relative;
+}
+h2 {
+    color: crimson;
+    margin: 15px 0;
+    text-transform: uppercase;
+}
+nav {
+    text-align: center;
+}
+
+.articleh2 {
+    color: darkmagenta;
+}
+
+article {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+article p {
+    text-align: justify !important;
+    margin: 25px;
+}
+article p a {
+    color: darkred;
+    font-weight: 700;
+}
+
+.product ul {
+    list-style-type: none;
+}
+
+.productlist {
+    
+}
+
+.productlist ul {
+    list-style-type: none;
+}
